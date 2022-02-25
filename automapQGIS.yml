@@ -1,0 +1,9 @@
+name: automapQGIS
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - qgis=3.16.8
+  - pandas=1.2.4
+  - click=7.1.2
+  - subprocess32=3.5.4

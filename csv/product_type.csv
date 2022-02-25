@@ -1,0 +1,50 @@
+NAME,Title,Color Ramp
+RFH,Rainfall,rfh
+R1H,Rainfall,r1h
+R2H,Rainfall,r2h
+R3H,Rainfall,r3h
+R4H,Rainfall,r4h
+R5H,Rainfall,r5h
+R6H,Rainfall,r6h
+R7H,Rainfall,r7h
+R8H,Rainfall,r8h
+R9H,Rainfall,r9h
+RYH,Rainfall,ryh
+RFB,Rainfall,rfh
+R1B,Rainfall,r1h
+R2B,Rainfall,r5h
+R3B,Rainfall,r7h
+R4B,Rainfall,r4h
+R5B,Rainfall,r5h
+R6B,Rainfall,r6h
+R7B,Rainfall,r7h
+R8B,Rainfall,r8h
+R9B,Rainfall,r9h
+RYB,Rainfall,ryh
+RFQ,Rainfall (percent of average),rfq
+R1Q,Rainfall (percent of average),rfq
+R2Q,Rainfall (percent of average),rfq
+R3Q,Rainfall (percent of average),rfq
+R4Q,Rainfall (percent of average),rfq
+R5Q,Rainfall (percent of average),rfq
+R6Q,Rainfall (percent of average),rfq
+R7Q,Rainfall (percent of average),rfq
+R8Q,Rainfall (percent of average),rfq
+R9Q,Rainfall (percent of average),rfq
+RYQ,Rainfall (percent of average),rfq
+DLX,Longest consecutive dry sequence,dlx
+DLC,Current consecutive dry sequence,dlc
+XL1,Longest sequence of heavy raindays (P75),xl1
+XL2,Longest sequence of intense raindays (P90),xl2
+XL3,Longest sequence of extreme raindays (P95),xl3
+XN1,Number of heavy raindays (P75),xn1
+XN2,Number of intense raindays (P90),xn2
+XN3,Number of extreme raindays (P95),xn3
+VIQ,NDVI (percent of average),viq
+VIM,NDVI,vim
+TDD,Land Surface Temp. (anomaly),tdd
+TDA,Land Surface Temperature,tda
+TAA,Temperature Amplitude,tda
+TAX,Average Tmax,tax
+TAN,Average Tmin,tan
+TNA,Land Surface Temperature,tna
